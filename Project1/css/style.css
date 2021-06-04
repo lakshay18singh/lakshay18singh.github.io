@@ -1,4 +1,25 @@
 body {
     background-color: beige;
 }
+.topbar {
+    margin-bottom: 30px;
+    background-color: white;
+
+}
+.leftbar {
+    margin-right: 4%%;
+    margin-left: 3%;
+}
+.feed {
+    margin-right: 3%;
+}
+
+
+
+
+
+
+.profile{
+    width: 80px
+}
 
